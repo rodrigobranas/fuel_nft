@@ -7,8 +7,6 @@ import {
 } from "@fuels/react";
 import { NftContract } from "./sway-api";
  
- 
-// REPLACE WITH YOUR CONTRACT ID
 const CONTRACT_ID =
   "0xc347d4b034a46df5c887d8e8a03c4daa6d29cdd55a4490515761a4610dd8675a";
  
